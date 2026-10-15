@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Анна Волкова",
+    "email": "anna.volkova@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Марк Соколов",
+    "email": "mark.sokolov@example.com"
+  },
+  {
+    "id": 3,
+    "name": "София Орлова",
+    "email": "sofia.orlova@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Тимур Лебедев",
+    "email": "timur.lebedev@example.com"
+  },
+  {
+    "id": 5,
+    "name": "Ева Морозова",
+    "email": "eva.morozova@example.com"
+  },
+  {
+    "id": 6,
+    "name": "Артём Козлов",
+    "email": "artem.kozlov@example.com"
+  },
+  {
+    "id": 7,
+    "name": "Милана Новикова",
+    "email": "milana.novikova@example.com"
+  },
+  {
+    "id": 8,
+    "name": "Лев Павлов",
+    "email": "lev.pavlov@example.com"
+  },
+  {
+    "id": 9,
+    "name": "Алиса Белова",
+    "email": "alisa.belova@example.com"
+  },
+  {
+    "id": 10,
+    "name": "Даниил Егоров",
+    "email": "daniil.egorov@example.com"
+  },
+  {
+    "id": 11,
+    "name": "Варвара Никитина",
+    "email": "varvara.nikitina@example.com"
+  },
+  {
+    "id": 12,
+    "name": "Роман Захаров",
+    "email": "roman.zakharov@example.com"
+  },
+  {
+    "id": 13,
+    "name": "Полина Зайцева",
+    "email": "polina.zaitseva@example.com"
+  },
+  {
+    "id": 14,
+    "name": "Илья Фролов",
+    "email": "ilya.frolov@example.com"
+  },
+  {
+    "id": 15,
+    "name": "Кира Алексеева",
+    "email": "kira.alekseeva@example.com"
+  },
+  {
+    "id": 16,
+    "name": "Матвей Макаров",
+    "email": "matvey.makarov@example.com"
+  },
+  {
+    "id": 17,
+    "name": "Вера Миронова",
+    "email": "vera.mironova@example.com"
+  },
+  {
+    "id": 18,
+    "name": "Руслан Осипов",
+    "email": "ruslan.osipov@example.com"
+  },
+  {
+    "id": 19,
+    "name": "Ника Титова",
+    "email": "nika.titova@example.com"
+  },
+  {
+    "id": 20,
+    "name": "Глеб Фомин",
+    "email": "gleb.fomin@example.com"
+  }
+]
