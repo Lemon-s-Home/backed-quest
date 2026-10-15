@@ -33,7 +33,7 @@ cd backed-quest
 
 ## Что нужно
 
-- терминал (WSL, если ты на Windows);
+- терминал (Windows PowerShell или Windows Terminal);
 - PHP и Python;
 - git;
 - Codex или Claude Code;
