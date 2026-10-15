@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" width="800" height="220" font-family="system-ui, -apple-system, Segoe UI, sans-serif">
+  <rect width="800" height="220" fill="#ffffff"/>
+  <defs><marker id="b" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#6b7280"/></marker></defs>
+  <g font-size="15" text-anchor="middle">
+    <circle cx="90" cy="70" r="30" fill="#3b82f6"/><text x="90" y="78" font-size="24" font-weight="700" fill="#fff">1</text>
+    <text x="90" y="125" font-weight="700" fill="#111827">Ввёл адрес</text>
+    <text x="90" y="148" fill="#4b5563">в браузере</text>
+    <circle cx="290" cy="70" r="30" fill="#3b82f6"/><text x="290" y="78" font-size="24" font-weight="700" fill="#fff">2</text>
+    <text x="290" y="125" font-weight="700" fill="#111827">Запрос</text>
+    <text x="290" y="148" fill="#4b5563">браузер просит страницу</text>
+    <circle cx="510" cy="70" r="30" fill="#f97316"/><text x="510" y="78" font-size="24" font-weight="700" fill="#fff">3</text>
+    <text x="510" y="125" font-weight="700" fill="#111827">Ответ</text>
+    <text x="510" y="148" fill="#4b5563">сервер: «200» и страница</text>
+    <circle cx="710" cy="70" r="30" fill="#16a34a"/><text x="710" y="78" font-size="24" font-weight="700" fill="#fff">4</text>
+    <text x="710" y="125" font-weight="700" fill="#111827">Страница</text>
+    <text x="710" y="148" fill="#4b5563">браузер рисует её</text>
+  </g>
+  <g stroke="#6b7280" stroke-width="3" marker-end="url(#b)">
+    <line x1="130" y1="70" x2="245" y2="70"/><line x1="335" y1="70" x2="465" y2="70"/><line x1="555" y1="70" x2="665" y2="70"/>
+  </g>
+</svg>
